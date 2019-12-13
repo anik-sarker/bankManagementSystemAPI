@@ -1,0 +1,122 @@
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\ApplicationInsights.config
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\roslyn\csc.exe
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\roslyn\vbc.exe
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\bmsAPI.dll.config
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\bmsAPI.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\bmsAPI.pdb
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\EntityFramework.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Microsoft.AI.Web.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Newtonsoft.Json.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Helpers.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Http.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Mvc.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Razor.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Webpages.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Webpages.Razor.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\EntityFramework.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Microsoft.AI.Web.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Razor.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Webpages.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Webpages.Razor.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Helpers.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Mvc.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\Newtonsoft.Json.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Http.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\obj\Debug\bmsAPI.csprojResolveAssemblyReference.cache
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\obj\Debug\bmsAPI.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\obj\Debug\bmsAPI.pdb
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\obj\Debug\bmsAPI.Migrations.InitialModel.resources
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\obj\Debug\bmsAPI.csproj.GenerateResource.Cache
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\obj\Debug\bmsAPI.Migrations.InitialModel1.resources
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI\bmsAPI\obj\Debug\bmsAPI.Migrations.InitialModel2.resources
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\obj\Debug\bmsAPI.csprojResolveAssemblyReference.cache
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\obj\Debug\bmsAPI.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\obj\Debug\bmsAPI.pdb
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\ApplicationInsights.config
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\roslyn\csc.exe
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\roslyn\vbc.exe
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\bmsAPI.dll.config
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\bmsAPI.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\bmsAPI.pdb
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\EntityFramework.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Microsoft.AI.Web.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Newtonsoft.Json.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Helpers.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Http.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Mvc.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Razor.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Webpages.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Webpages.Razor.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\EntityFramework.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Microsoft.AI.Web.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Razor.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Webpages.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Webpages.Razor.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Helpers.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Mvc.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\Newtonsoft.Json.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Http.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\obj\Debug\bmsAPI.Migrations.intasdf.resources
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\bmsAPI - Copy\bmsAPI\obj\Debug\bmsAPI.csproj.GenerateResource.Cache
