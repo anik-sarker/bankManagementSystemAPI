@@ -1,0 +1,5 @@
+This project was developed by me when I was studying API in one of my courses (Advance Topic In Programing 2). Following criteria was fulfilled when developing this RESTful API,
+	-Resource-based URIs 
+	-HTTP Verbs  
+	-HTTP Status Codes
+	-HATEOAS
